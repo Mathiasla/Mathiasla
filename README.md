@@ -1,8 +1,12 @@
 # Welcome to my github Profile 👋
 ---
 #### Who am i?
-Recently graduated Webdeveloper Anno 2023, with a degree in webdevelopment from University College Lillebælt.
+My name is Mathias, and i am a recently graduated Webdeveloper Anno 2023, with a degree in webdevelopment from University College Lillebælt.
 
+### I’m currently working on ...
+I am currently working on mastering the art of modern webdevelopment, with an emphasis on vue.js.
+I am also working on improving my skills with the .Net platform.
+And last, but not least, i am continuously working on improving my skills with UI/UX.
 <!--
 **Mathiasla/Mathiasla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
