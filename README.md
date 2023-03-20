@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome to my github Profile 👋
+---
+#### Who am i?
+Recently graduated Webdeveloper Anno 2023, with a degree in webdevelopment from University College Lillebælt.
 
 <!--
 **Mathiasla/Mathiasla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
