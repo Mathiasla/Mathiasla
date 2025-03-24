@@ -13,4 +13,4 @@ I love building **efficient, scalable, and user-friendly software**—whether it
 ✅ **Automation & Efficiency**: Power Automate (Cloud & Desktop), RPA  
 ✅ **Other**: UI/UX Principles, API Development, 
 
-📩 **Let's talk!** Reach out via  [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mathias-e-a3608396/)).
+📩 **Let's talk!** Reach out via  [LinkedIn](https://www.linkedin.com/in/mathias-e-a3608396/).
